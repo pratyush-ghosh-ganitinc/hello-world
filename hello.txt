@@ -1,1 +1,1 @@
-Hello Artifactory and Sonar
+Code Quality is a Myth Just Commit Commit Commit
